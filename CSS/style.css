@@ -50,6 +50,11 @@ th, td{
 .bl-blue{
     border-left: 3px solid #4285f4;
 }
+
+.border-three{
+    border-left: 3px solid #FA7B17;
+}
+
 .gols img{
     width: 42px;
     height: 42px;
